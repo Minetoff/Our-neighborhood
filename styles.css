@@ -25,7 +25,7 @@ html, body, #map {
     z-index: 600;
     position: absolute;
     text-align: right;
-    padding-left: 95%;
+    padding-left: 90%;
     font-size: 40px;
     list-style-type: none;
 }
